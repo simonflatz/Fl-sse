@@ -1,4 +1,3 @@
-# fcschwarzenberg
 <!DOCTYPE html>
 <html>
     <head>
