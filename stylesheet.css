@@ -9,4 +9,7 @@ img.align-right {
  float: right;
  margin-left: 70px;
 }
+img.align-center {
+ margin: auto;
+}
 
