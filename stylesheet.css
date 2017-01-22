@@ -3,7 +3,7 @@ h1{font-family: Constantia;
   font-size: 500;
   text-align: center;
 }
-div{text-align: center;
+div{text-align: left;
 }
 img.align-right {
  float: right;
@@ -15,4 +15,6 @@ img.align-center {
 h2{font-family: Constantia;
   color: #0066cc;
   font-size: 400;
+}
+tn{text-align: left;
 }
