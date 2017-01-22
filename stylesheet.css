@@ -3,7 +3,7 @@ h1{font-family: Constantia;
   font-size: 500;
   text-align: center;
 }
-div{text-align: center
+div{text-align: center;
 }
 img.align-right {
  float: right;
@@ -12,4 +12,6 @@ img.align-right {
 img.align-center {
  margin: auto;
 }
-
+txtl{
+  text-align: left;
+}
